@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\1103105342\2.存取資料庫\1103105342\work2_1103105342\bin\Debug\work2_1103105342.exe.config
+C:\Users\ASUS\Desktop\1103105342\2.存取資料庫\1103105342\work2_1103105342\bin\Debug\work2_1103105342.exe
+C:\Users\ASUS\Desktop\1103105342\2.存取資料庫\1103105342\work2_1103105342\bin\Debug\work2_1103105342.pdb
+C:\Users\ASUS\Desktop\1103105342\2.存取資料庫\1103105342\work2_1103105342\obj\Debug\work2_1103105342.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\1103105342\2.存取資料庫\1103105342\work2_1103105342\obj\Debug\work2_1103105342.exe
+C:\Users\ASUS\Desktop\1103105342\2.存取資料庫\1103105342\work2_1103105342\obj\Debug\work2_1103105342.pdb
